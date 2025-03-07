@@ -1,0 +1,78 @@
+[
+  {
+    "name": "作战指令文本",
+    "source": "军事作战指挥命令",
+    "size": 9
+  },
+  {
+    "name": "训练计划文本",
+    "source": "部队训练计划方案",
+    "size": 8
+  },
+  {
+    "name": "装备手册文本",
+    "source": "军事装备使用手册",
+    "size": 7
+  },
+  {
+    "name": "战术分析文本",
+    "source": "军事战术分析报告",
+    "size": 6
+  },
+  {
+    "name": "情报资料文本",
+    "source": "军事情报收集分析",
+    "size": 5
+  },
+  {
+    "name": "后勤保障文本",
+    "source": "军事后勤保障计划",
+    "size": 4
+  },
+  {
+    "name": "演习总结文本",
+    "source": "军事演习总结报告",
+    "size": 2
+  },
+  {
+    "name": "战备记录文本",
+    "source": "部队战备状态记录",
+    "size": 1
+  },
+  {
+    "name": "战场地形图",
+    "source": "军事作战区域的地形地貌图",
+    "size": 9,
+    "visual": true
+  },
+  {
+    "name": "装备结构图",
+    "source": "军事装备的内部结构和原理图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "兵力部署图",
+    "source": "军事作战和演习的兵力部署图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "战术演示图",
+    "source": "军事战术和战法的示意图",
+    "size": 6,
+    "visual": true
+  },
+  {
+    "name": "作战路线图",
+    "source": "军事作战行动路线和目标图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "军事设施图",
+    "source": "军事基地和设施的布局图",
+    "size": 8,
+    "visual": true
+  }
+] 

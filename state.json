@@ -1,0 +1,1440 @@
+{
+  "processedIndustries": {
+    "云计算": {
+      "云架构拓扑图": true,
+      "云资源监控图表": true,
+      "云服务流程图": true,
+      "云计算数据中心图": true,
+      "云安全架构图": true,
+      "云计算技术图示": true,
+      "云迁移路径图": true,
+      "云成本分析图表": true,
+      "多云架构图": true,
+      "容器编排图示": true,
+      "云服务对比图表": true,
+      "可视化运维控制台图": true,
+      "merged": true,
+      "completed": true
+    },
+    "互联网": {
+      "产品界面原型图": true,
+      "用户流程图": true,
+      "数据可视化图表": true,
+      "系统架构图": true,
+      "项目进度甘特图": true,
+      "用户画像图表": true,
+      "网站热力图": true,
+      "转化漏斗图": true,
+      "竞品分析图表": true,
+      "性能监控图表": true,
+      "A/B测试对比图": true,
+      "移动端适配图": true,
+      "merged": true,
+      "completed": true
+    },
+    "人工智能": {
+      "神经网络结构图": true,
+      "模型性能图表": true,
+      "数据分布可视化": true,
+      "算法流程图": true,
+      "特征重要性图表": true,
+      "计算机视觉输出图": true,
+      "注意力热力图": true,
+      "预测结果对比图": true,
+      "模型架构图": true,
+      "训练过程曲线图": true,
+      "语义分割可视化": true,
+      "自然语言生成示例图": true,
+      "merged": true,
+      "completed": true
+    },
+    "会计": {
+      "财务数据图表": true,
+      "会计核算流程图": true,
+      "财务结构图": true,
+      "税务筹划图表": true,
+      "内控流程图": true,
+      "财务预算图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "体育": {
+      "技术动作示范图": true,
+      "战术布局图": true,
+      "运动数据图表": true,
+      "体能曲线图": true,
+      "伤病康复图示": true,
+      "场地布局图": true,
+      "merged": true,
+      "completed": true
+    },
+    "保险": {
+      "保险产品架构图": true,
+      "理赔流程图": true,
+      "风险评估图表": true,
+      "客户画像图表": true,
+      "销售业绩图表": true,
+      "保险知识图谱": true,
+      "selectedIdeas": [
+        3,
+        1,
+        0
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "健身": {
+      "健身动作示范图": true,
+      "肌肉解剖图": true,
+      "健身器材使用图": true,
+      "健身成果对比图": true,
+      "营养餐搭配图": true,
+      "健身计划流程图": true,
+      "merged": true,
+      "completed": true
+    },
+    "公关": {
+      "品牌形象设计图": true,
+      "公关活动现场图": true,
+      "舆情分析图表": true,
+      "媒体传播图表": true,
+      "危机公关流程图": true,
+      "企业形象宣传图": true,
+      "merged": true,
+      "completed": true
+    },
+    "公路": {
+      "公路设计图纸": true,
+      "路面结构图": true,
+      "桥梁隧道结构图": true,
+      "施工现场图": true,
+      "路况检测图": true,
+      "merged": true,
+      "completed": true
+    },
+    "养老": {
+      "养老机构平面图": true,
+      "老年人康复训练图": true,
+      "养老护理流程图": true,
+      "老年人营养膳食图": true,
+      "养老产品使用图": true,
+      "老年人活动指导图": true,
+      "merged": true,
+      "completed": true
+    },
+    "军事": {
+      "战场地形图": true,
+      "装备结构图": true,
+      "兵力部署图": true,
+      "战术演示图": true,
+      "作战路线图": true,
+      "军事设施图": true,
+      "selectedIdeas": [
+        1,
+        3,
+        0
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "农业": {
+      "农作物生长图谱": true,
+      "病虫害图鉴": true,
+      "农田规划图": true,
+      "土壤分析图表": true,
+      "农业机械图解": true,
+      "农产品品质图": true,
+      "merged": true,
+      "completed": true
+    },
+    "冶金": {
+      "冶炼工艺流程图": true,
+      "冶金设备结构图": true,
+      "金属材料显微图": true,
+      "材料性能曲线图": true,
+      "冶金厂房布局图": true,
+      "安全防护示意图": true,
+      "merged": true,
+      "completed": true
+    },
+    "出版": {
+      "内页排版设计图": true,
+      "插图设计图": true,
+      "营销宣传图": true,
+      "装帧设计图": true,
+      "版式样例图": true,
+      "merged": true,
+      "completed": true
+    },
+    "制药": {
+      "药物分子结构图": true,
+      "药品生产流程图": true,
+      "药物作用机制图": true,
+      "药物临床数据图表": true,
+      "药品包装设计图": true,
+      "药品质检图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "制造业": {
+      "产品设计图纸": true,
+      "生产线布局图": true,
+      "工艺流程图": true,
+      "质量检测图": true,
+      "设备操作图": true,
+      "selectedIdeas": [
+        3,
+        4,
+        1
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "动漫": {
+      "角色设计图": true,
+      "场景背景设计": true,
+      "分镜头设计图": true,
+      "动画关键帧": true,
+      "色彩设计方案": true,
+      "特效设计图": true,
+      "merged": true,
+      "completed": true
+    },
+    "化工": {
+      "化工工艺流程图": true,
+      "化学分子结构图": true,
+      "设备装置图": true,
+      "安全警示标识图": true,
+      "厂区布局图": true,
+      "质量检测图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "区块链": {
+      "区块链架构图": true,
+      "加密算法图解": true,
+      "区块数据结构图": true,
+      "交易流程示意图": true,
+      "共识机制图解": true,
+      "市场走势图表": true,
+      "区块链生态系统图": true,
+      "钱包界面示意图": true,
+      "智能合约执行流程图": true,
+      "区块链性能图表": true,
+      "去中心化应用架构图": true,
+      "selectedIdeas": [
+        3,
+        1,
+        7
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "医疗": {
+      "医学影像图": true,
+      "解剖示意图": true,
+      "病理切片图像": true,
+      "手术操作图示": true,
+      "医疗数据图表": true,
+      "医疗器械图示": true,
+      "merged": true,
+      "completed": true
+    },
+    "医疗器械": {
+      "医疗器械结构图": true,
+      "医疗器械操作示意图": true,
+      "医疗器械临床应用图": true,
+      "医疗器械测试数据图表": true,
+      "医疗器械故障排除图": true,
+      "医疗器械工作原理图": true,
+      "merged": true,
+      "completed": true
+    },
+    "博彩": {
+      "博彩游戏界面图": true,
+      "博彩数据可视化": true,
+      "赌场布局图": true,
+      "游戏策略示意图": true,
+      "安全博彩宣传图": true,
+      "merged": true,
+      "completed": true
+    },
+    "古董": {
+      "古董高清照片集": true,
+      "鉴定特征图解": true,
+      "年代风格图谱": true,
+      "修复过程图示": true,
+      "展览布局图": true,
+      "损伤评估图": true,
+      "价值影响因素图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "咨询": {
+      "业务流程图": true,
+      "数据可视化图表": true,
+      "战略规划地图": true,
+      "组织结构图": true,
+      "项目甘特图": true,
+      "SWOT分析图": true,
+      "成本效益分析图": true,
+      "用户旅程地图": true,
+      "merged": true,
+      "completed": true
+    },
+    "器械": {
+      "器械操作示意图": true,
+      "器械结构分解图": true,
+      "器械维修流程图": true,
+      "器械性能测试图表": true,
+      "器械安全警示图": true,
+      "器械设计草图": true,
+      "器械装配图解": true,
+      "器械应用场景图": true,
+      "merged": true,
+      "completed": true
+    },
+    "园艺": {
+      "植物图谱集": true,
+      "园林设计效果图": true,
+      "植物修剪示意图": true,
+      "病虫害识别图谱": true,
+      "园艺工具使用图解": true,
+      "花园布局规划图": true,
+      "植物季节变化图": true,
+      "园艺项目进度图": true,
+      "merged": true,
+      "completed": true
+    },
+    "地质": {
+      "地质构造图": true,
+      "断层剖面图": true,
+      "矿物分布图": true,
+      "地质灾害风险图": true,
+      "地质样本图像": true,
+      "地质测绘图": true,
+      "地球物理探测图": true,
+      "地质年代表": true,
+      "merged": true,
+      "completed": true
+    },
+    "增强现实": {
+      "AR界面设计图": true,
+      "设备结构图": true,
+      "空间映射图": true,
+      "信息叠加示例图": true,
+      "交互流程图": true,
+      "视场角示意图": true,
+      "手势识别图示": true,
+      "3D对象渲染图": true,
+      "标记识别示意图": true,
+      "行业应用场景图": true,
+      "用户体验流程图": true,
+      "SLAM技术可视化": true,
+      "merged": true,
+      "completed": true
+    },
+    "外交": {
+      "国际关系网络图": true,
+      "外交活动照片集": true,
+      "地缘政治地图": true,
+      "外交礼仪示范图": true,
+      "国际会议布局图": true,
+      "外交历史影像集": true,
+      "国家形象宣传图": true,
+      "领事机构分布图": true,
+      "merged": true,
+      "completed": true
+    },
+    "大数据": {
+      "数据流图": true,
+      "数据可视化面板": true,
+      "集群监控图表": true,
+      "数据分布图": true,
+      "关系网络图": true,
+      "数据建模图": true,
+      "异常检测图表": true,
+      "趋势预测图": true,
+      "集群拓扑图": true,
+      "ETL任务流程图": true,
+      "数据质量评估图": true,
+      "用户行为路径图": true,
+      "merged": true,
+      "completed": true
+    },
+    "婚庆": {
+      "婚礼场地布置图": true,
+      "婚礼摄影作品集": true,
+      "主题婚礼风格图": true,
+      "婚礼流程示意图": true,
+      "婚礼花艺设计图": true,
+      "婚纱礼服图册": true,
+      "婚礼甜品台设计图": true,
+      "婚礼邀请函设计图": true,
+      "merged": true,
+      "completed": true
+    },
+    "媒体": {
+      "新闻图片集": true,
+      "媒体宣传图": true,
+      "数据可视化图": true,
+      "媒体布局设计图": true,
+      "媒体标识设计图": true,
+      "媒体演播室布景图": true,
+      "merged": true,
+      "completed": true
+    },
+    "安保": {
+      "安保布防图": true,
+      "安保设备操作图": true,
+      "安保应急预案图": true,
+      "安保培训示意图": true,
+      "安保检查流程图": true,
+      "安保监控布局图": true,
+      "merged": true,
+      "completed": true
+    },
+    "安防": {
+      "监控画面截图": true,
+      "安防设备示意图": true,
+      "安全区域布局图": true,
+      "安防系统架构图": true,
+      "应急疏散路线图": true,
+      "安防人员巡逻图": true,
+      "风险评估热力图": true,
+      "安防训练示范图": true,
+      "selectedIdeas": [
+        1,
+        4,
+        7
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "宠物": {
+      "宠物品种图鉴": true,
+      "宠物诊疗图谱": true,
+      "宠物行为图解": true,
+      "宠物护理示范图": true,
+      "宠物训练图示": true,
+      "宠物设施布局图": true,
+      "merged": true,
+      "completed": true
+    },
+    "室内设计": {
+      "室内效果图": true,
+      "室内平面布置图": true,
+      "室内立面图": true,
+      "材料与色彩搭配板": true,
+      "室内细部设计图": true,
+      "室内灯光设计图": true,
+      "selectedIdeas": [
+        0,
+        1,
+        2
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "家具": {
+      "家具设计效果图": true,
+      "材料样板图谱": true,
+      "组装步骤图解": true,
+      "家具结构图": true,
+      "家具空间搭配图": true,
+      "家具设计草图": true,
+      "家具工艺制作图": true,
+      "家具尺寸图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "家政": {
+      "家居清洁流程图": true,
+      "家居整理技巧图": true,
+      "家政工具使用图": true,
+      "家居物品摆放图": true,
+      "家政服务流程图": true,
+      "家政培训示范图": true,
+      "merged": true,
+      "completed": true
+    },
+    "家电": {
+      "产品结构分解图": true,
+      "操作面板图解": true,
+      "安装步骤图示": true,
+      "故障排除图解": true,
+      "电路原理图": true,
+      "产品效果图集": true,
+      "节能性能图表": true,
+      "智能控制界面图": true,
+      "merged": true,
+      "completed": true
+    },
+    "幼儿教育": {
+      "儿童绘本插图集": true,
+      "幼儿教具展示图": true,
+      "幼儿发展图示表": true,
+      "幼儿游戏活动图": true,
+      "幼儿园环境设计图": true,
+      "幼儿行为观察图表": true,
+      "幼儿艺术创作作品": true,
+      "merged": true,
+      "completed": true
+    },
+    "广告": {
+      "广告设计稿": true,
+      "品牌视觉形象": true,
+      "广告故事板": true,
+      "媒体投放效果图": true,
+      "消费者画像图表": true,
+      "广告效果数据图": true,
+      "竞品分析图表": true,
+      "广告创意概念图": true,
+      "selectedIdeas": [
+        1,
+        4,
+        7
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "广播": {
+      "广播设备图解": true,
+      "声音波形图示": true,
+      "录音棚布局图": true,
+      "广播信号覆盖图": true,
+      "广播工作流程图": true,
+      "听众数据图表": true,
+      "广播界面设计图": true,
+      "广播台标设计图": true,
+      "selectedIdeas": [
+        1,
+        7,
+        5
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "应急": {
+      "应急疏散示意图": true,
+      "救援操作示范图": true,
+      "应急指挥中心布局图": true,
+      "灾害影响范围图": true,
+      "应急组织结构图": true,
+      "应急资源分布图": true,
+      "应急演练照片集": true,
+      "警示标识图集": true,
+      "merged": true,
+      "completed": true
+    },
+    "建筑": {
+      "建筑设计图纸": true,
+      "结构工程图": true,
+      "施工现场照片": true,
+      "机电设备图": true,
+      "建筑效果图": true,
+      "施工进度图表": true,
+      "材料样板图": true,
+      "质量检测图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "建筑设计": {
+      "建筑效果图": true,
+      "建筑平面图": true,
+      "建筑立面图": true,
+      "建筑剖面图": true,
+      "建筑细部设计图": true,
+      "建筑模型照片": true,
+      "merged": true,
+      "completed": true
+    },
+    "心理": {
+      "心理测评量表图": true,
+      "心理治疗流程图": true,
+      "心理发展曲线图": true,
+      "心理评估结果图": true,
+      "心理治疗技术图": true,
+      "心理健康教育图": true,
+      "merged": true,
+      "completed": true
+    },
+    "快递": {
+      "物流路线图": true,
+      "派送状态跟踪图": true,
+      "配送中心布局图": true,
+      "包装规范图示": true,
+      "分拣流程图": true,
+      "配送效率图表": true,
+      "车辆装载图": true,
+      "智能设备操作图": true,
+      "merged": true,
+      "completed": true
+    },
+    "房地产": {
+      "户型平面图": true,
+      "地产规划图": true,
+      "样板房照片集": true,
+      "区位交通图": true,
+      "房产价格走势图": true,
+      "装修设计效果图": true,
+      "沙盘模型照片": true,
+      "楼盘实景图": true,
+      "merged": true,
+      "completed": true
+    },
+    "拍卖": {
+      "拍品高清图像": true,
+      "拍卖现场布局图": true,
+      "拍品价值走势图": true,
+      "拍品真伪鉴别图": true,
+      "名家签名图鉴": true,
+      "拍卖流程图": true,
+      "拍品保存状态图示": true,
+      "拍卖竞价演示图": true,
+      "merged": true,
+      "completed": true
+    },
+    "搜索引擎": {
+      "搜索热点热力图": true,
+      "搜索流量分析图": true,
+      "用户行为路径图": true,
+      "算法性能图表": true,
+      "搜索结果分布图": true,
+      "网站索引覆盖图": true,
+      "服务器负载图表": true,
+      "用户界面截图集": true,
+      "merged": true,
+      "completed": true
+    },
+    "摄影": {
+      "摄影作品集": true,
+      "摄影构图示例": true,
+      "照明设置示意图": true,
+      "后期处理效果对比": true,
+      "摄影器材结构图": true,
+      "经典照片分析图": true,
+      "merged": true,
+      "completed": true
+    },
+    "收藏品": {
+      "收藏品高清图像": true,
+      "收藏品真伪特征图": true,
+      "收藏品损伤记录图": true,
+      "收藏品价值走势图": true,
+      "收藏品展示布局图": true,
+      "收藏品制作工艺图": true,
+      "收藏品年代特征图": true,
+      "收藏品保存环境图": true,
+      "selectedIdeas": [
+        0,
+        1,
+        2
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "政府": {
+      "城市规划图": true,
+      "统计数据图表": true,
+      "政府组织架构图": true,
+      "行政区划地图": true,
+      "项目进度展示图": true,
+      "民生工程分布图": true,
+      "应急预案流程图": true,
+      "政务公开数据图": true,
+      "merged": true,
+      "completed": true
+    },
+    "教育": {
+      "教学图表示例": true,
+      "课堂布局设计": true,
+      "教学辅助图像": true,
+      "学校建筑设计图": true,
+      "教育信息化界面": true,
+      "学生作品展示": true,
+      "校园活动照片": true,
+      "教育设备图示": true,
+      "教育成果展示": true,
+      "教育数据可视化": true,
+      "selectedIdeas": [
+        1,
+        7,
+        2
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "教育培训": {
+      "培训材料PPT": true,
+      "培训现场图像": true,
+      "培训流程图示": true,
+      "培训中心环境": true,
+      "证书样本展示": true,
+      "培训宣传海报": true,
+      "能力模型图表": true,
+      "学习成果展示": true,
+      "培训数据图表": true,
+      "培训互动设计": true,
+      "merged": true,
+      "completed": true
+    },
+    "新能源": {
+      "太阳能电站设计图": true,
+      "风力发电场景观": true,
+      "新能源设备结构图": true,
+      "新能源产品样本": true,
+      "新能源工程照片": true,
+      "能源系统示意图": true,
+      "新能源数据可视化": true,
+      "材料微观结构图": true,
+      "新能源车辆设计": true,
+      "智能电网示意图": true,
+      "merged": true,
+      "completed": true
+    },
+    "旅游": {
+      "景点实景照片": true,
+      "旅游地图示意": true,
+      "酒店设施展示": true,
+      "美食图片集": true,
+      "交通工具图示": true,
+      "旅游活动场景": true,
+      "行程路线图": true,
+      "民俗文化图像": true,
+      "自然风光图集": true,
+      "旅游宣传海报": true,
+      "购物场所图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "时尚": {
+      "时装秀场照片": true,
+      "时尚产品图集": true,
+      "设计草图集": true,
+      "时尚人像摄影": true,
+      "流行趋势板": true,
+      "时尚广告图像": true,
+      "街拍风格照片": true,
+      "时尚店铺设计": true,
+      "面料纹理图集": true,
+      "时尚插画作品": true,
+      "造型参考图库": true,
+      "merged": true,
+      "completed": true
+    },
+    "景观设计": {
+      "景观效果图": true,
+      "植物配置图": true,
+      "景观剖面图": true,
+      "景观细部设计图": true,
+      "景观灯光设计图": true,
+      "selectedIdeas": [
+        0,
+        4,
+        1
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "服装": {
+      "服装设计效果图": true,
+      "服装平面图": true,
+      "面料样品图": true,
+      "服装工艺图": true,
+      "服装展示图": true,
+      "服装设计手稿": true,
+      "merged": true,
+      "completed": true
+    },
+    "机场": {
+      "机场总体规划图": true,
+      "航站楼结构图": true,
+      "机场标识系统": true,
+      "机场设备图示": true,
+      "空侧运行图像": true,
+      "安保系统示意图": true,
+      "流程指引图示": true,
+      "应急演练图像": true,
+      "机场商业布局": true,
+      "机场数据可视化": true,
+      "航班信息显示": true,
+      "selectedIdeas": [
+        2,
+        1,
+        10
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "机械": {
+      "机械CAD设计图": true,
+      "装配示意图": true,
+      "工作原理图": true,
+      "工厂布局图": true,
+      "材料截面图": true,
+      "机械故障图示": true,
+      "测试数据图表": true,
+      "生产过程照片": true,
+      "精密零件图像": true,
+      "安全警示图标": true,
+      "质量检测图像": true,
+      "维修指导图解": true,
+      "merged": true,
+      "completed": true
+    },
+    "林业": {
+      "森林资源分布图": true,
+      "树种识别图鉴": true,
+      "林木生长周期图": true,
+      "森林病虫害图谱": true,
+      "林业机械设备图": true,
+      "森林灾害监测图": true,
+      "生态系统关系图": true,
+      "林业工程实景": true,
+      "林产品加工流程": true,
+      "林业数据可视化": true,
+      "森林景观图集": true,
+      "林业保护区图": true,
+      "merged": true,
+      "completed": true
+    },
+    "民航": {
+      "飞机结构图": true,
+      "机场航站楼图": true,
+      "飞行航线图": true,
+      "客舱布局图": true,
+      "航空安全卡": true,
+      "机场导航图": true,
+      "飞机维修图解": true,
+      "飞行员视角图": true,
+      "空乘服务流程": true,
+      "机场流程图示": true,
+      "飞行安全图示": true,
+      "航空数据可视化": true,
+      "merged": true,
+      "completed": true
+    },
+    "气象": {
+      "天气图标系统": true,
+      "气象雷达图像": true,
+      "卫星云图": true,
+      "天气预报图": true,
+      "气象灾害图例": true,
+      "气象观测仪器": true,
+      "气象数据图表": true,
+      "气候变化图示": true,
+      "天气系统模型": true,
+      "预警信号图示": true,
+      "气象工作流程": true,
+      "气象科普图解": true,
+      "selectedIdeas": [
+        0,
+        9,
+        11
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "水利": {
+      "水库大坝图像": true,
+      "水文监测图表": true,
+      "防洪工程图": true,
+      "水系分布图": true,
+      "灌溉系统图示": true,
+      "水质监测图像": true,
+      "水利设施模型": true,
+      "地下水资源图": true,
+      "水患风险地图": true,
+      "水土保持图示": true,
+      "merged": true,
+      "completed": true
+    },
+    "水运": {
+      "船舶图像资料": true,
+      "港口设施图示": true,
+      "航道导航图": true,
+      "水运监控图像": true,
+      "航行信号标识": true,
+      "船闸运行图示": true,
+      "水运事故图像": true,
+      "货物装卸图像": true,
+      "水运路线图": true,
+      "船员培训图示": true,
+      "merged": true,
+      "completed": true
+    },
+    "汽车": {
+      "汽车设计图": true,
+      "汽车工程图": true,
+      "汽车原型渲染图": true,
+      "汽车线路图": true,
+      "汽车展示图": true,
+      "汽车测试场景图": true,
+      "汽车碰撞测试图": true,
+      "汽车空气动力学模拟图": true,
+      "汽车制造流程图": true,
+      "驾驶操作指南图": true,
+      "汽车故障示意图": true,
+      "merged": true,
+      "completed": true
+    },
+    "法律": {
+      "法庭现场图像": true,
+      "证据照片集": true,
+      "法律程序图示": true,
+      "案件现场重建": true,
+      "法律文献扫描": true,
+      "签署文件图像": true,
+      "法律专业人士肖像": true,
+      "法律标识图形": true,
+      "法庭布局图": true,
+      "案例关系可视化": true,
+      "merged": true,
+      "completed": true
+    },
+    "测绘": {
+      "地形图": true,
+      "航空影像": true,
+      "遥感影像": true,
+      "三维模型": true,
+      "正射影像图": true,
+      "专题地图集": true,
+      "测绘设备图像": true,
+      "坐标网格图": true,
+      "GIS可视化": true,
+      "测绘作业图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "海洋": {
+      "海洋卫星图像": true,
+      "海底地形图": true,
+      "海洋生物图集": true,
+      "海流分布图": true,
+      "水温分布图": true,
+      "台风路径图": true,
+      "海洋调查图像": true,
+      "海岸线变迁图": true,
+      "海洋污染图示": true,
+      "merged": true,
+      "completed": true
+    },
+    "消防": {
+      "消防设备图像": true,
+      "火灾现场图像": true,
+      "消防演练图像": true,
+      "火灾隐患图示": true,
+      "消防图纸标识": true,
+      "merged": true,
+      "completed": true
+    },
+    "渔业": {
+      "水产养殖图像": true,
+      "捕捞船只图像": true,
+      "水产病害图示": true,
+      "渔业设备图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "游戏": {
+      "游戏角色彩绘": true,
+      "UI设计图": true,
+      "游戏场景设计": true,
+      "游戏架构设计图": true,
+      "动画帧图": true,
+      "selectedIdeas": [
+        0,
+        1,
+        2
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "漫画": {
+      "漫画作品集": true,
+      "漫画角色设计图": true,
+      "漫画场景背景": true,
+      "漫画分镜表现": true,
+      "漫画封面设计": true,
+      "merged": true,
+      "completed": true
+    },
+    "物流": {
+      "智能仓储图像": true,
+      "物流车辆图像": true,
+      "配送路线图": true,
+      "包装标识图示": true,
+      "货物装卸图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "物联网": {
+      "网络拓扑图": true,
+      "设备结构图": true,
+      "数据流图": true,
+      "系统架构图": true,
+      "设备状态监控图": true,
+      "传感器数据图表": true,
+      "智能家居控制界面": true,
+      "设备安装示意图": true,
+      "边缘计算架构图": true,
+      "协议栈图示": true,
+      "故障诊断流程图": true,
+      "智慧城市场景图": true,
+      "merged": true,
+      "completed": true
+    },
+    "特殊教育": {
+      "特殊教育教具图像": true,
+      "课堂互动图像": true,
+      "辅助设备展示": true,
+      "无障碍设施图示": true,
+      "手语图解教材": true,
+      "merged": true,
+      "completed": true
+    },
+    "环保": {
+      "环境污染图像": true,
+      "环保设施图像": true,
+      "生态系统图示": true,
+      "污染监测图表": true,
+      "环保技术图解": true,
+      "merged": true,
+      "completed": true
+    },
+    "珠宝": {
+      "珠宝设计效果图": true,
+      "宝石显微照片": true,
+      "珠宝工艺流程图": true,
+      "珠宝佩戴效果图": true,
+      "宝石鉴定图谱": true,
+      "珠宝设计手稿": true,
+      "merged": true,
+      "completed": true
+    },
+    "生物技术": {
+      "显微镜观察图像": true,
+      "实验装置图示": true,
+      "分子结构图像": true,
+      "生物芯片图像": true,
+      "细胞培养图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "电商": {
+      "商品图片集": true,
+      "商品视频展示": true,
+      "店铺装修图像": true,
+      "营销活动图像": true,
+      "用户晒单图": true,
+      "merged": true,
+      "completed": true
+    },
+    "电子": {
+      "电路原理图": true,
+      "PCB布局图": true,
+      "产品外观设计图": true,
+      "流程示意图": true,
+      "设备接口示意图": true,
+      "merged": true,
+      "completed": true
+    },
+    "电影": {
+      "电影海报": true,
+      "电影剧照": true,
+      "拍摄现场图像": true,
+      "电影特效制作": true,
+      "电影分镜头": true,
+      "merged": true,
+      "completed": true
+    },
+    "电视": {
+      "电视节目视频": true,
+      "电视演播室场景": true,
+      "电视包装图形": true,
+      "电视转播画面": true,
+      "电视后期制作": true,
+      "merged": true,
+      "completed": true
+    },
+    "畜牧业": {
+      "畜禽品种图鉴": true,
+      "养殖场景图像": true,
+      "疫病症状图示": true,
+      "饲养设备图像": true,
+      "畜产品图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "看护": {
+      "看护操作示范图": true,
+      "看护设备使用图": true,
+      "看护环境图像": true,
+      "健康状况评估图": true,
+      "看护互动场景": true,
+      "merged": true,
+      "completed": true
+    },
+    "矿业": {
+      "矿产地质图": true,
+      "采矿设备图像": true,
+      "矿山作业图像": true,
+      "安全标识图示": true,
+      "矿产样本图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "社交媒体": {
+      "社交媒体图片": true,
+      "短视频内容": true,
+      "表情包图集": true,
+      "社交平台界面": true,
+      "社交广告图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "科研": {
+      "实验数据图表": true,
+      "实验装置图像": true,
+      "实验样本图像": true,
+      "研究模型图示": true,
+      "科研流程图": true,
+      "merged": true,
+      "completed": true
+    },
+    "空管": {
+      "雷达显示画面": true,
+      "航空气象图": true,
+      "空管塔台图像": true,
+      "航路图显示": true,
+      "空管设备图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "纺织": {
+      "面料样品图像": true,
+      "纺织设备图像": true,
+      "织物结构图": true,
+      "产品款式图像": true,
+      "纺织工艺流程图": true,
+      "merged": true,
+      "completed": true
+    },
+    "美容": {
+      "美容产品图像": true,
+      "护肤步骤图解": true,
+      "妆容效果图像": true,
+      "皮肤问题图示": true,
+      "美容仪器图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "翻译": {
+      "翻译软件界面": true,
+      "术语对照图表": true,
+      "翻译流程图示": true,
+      "语言地图": true,
+      "翻译质量评估图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "职业教育": {
+      "职业技能操作图示": true,
+      "实训设备图像": true,
+      "职业能力图谱": true,
+      "职业教育场景图像": true,
+      "职业发展路径图": true,
+      "merged": true,
+      "completed": true
+    },
+    "能源": {
+      "能源设施图像": true,
+      "能源设备图示": true,
+      "能源分布图": true,
+      "监控系统画面": true,
+      "能源数据图表": true,
+      "selectedIdeas": [
+        0,
+        3,
+        4
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "航天": {
+      "航天器图像": true,
+      "航天设备图解": true,
+      "太空探测图像": true,
+      "航天轨道图": true,
+      "航天工程图纸": true,
+      "merged": true,
+      "completed": true
+    },
+    "航天工程": {
+      "航天器设计图": true,
+      "航天材料图像": true,
+      "航天装配图示": true,
+      "航天测试图像": true,
+      "发射场设施图": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空": {
+      "飞机结构图像": true,
+      "驾驶舱界面图": true,
+      "航线地图图像": true,
+      "维修操作图示": true,
+      "安全设备图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空制造": {
+      "飞机结构设计图": true,
+      "生产线图像": true,
+      "零部件图像": true,
+      "材料测试图像": true,
+      "制造工艺流程图": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空培训": {
+      "飞行模拟图像": true,
+      "操作演示图像": true,
+      "设备使用图解": true,
+      "培训场景图像": true,
+      "航空知识图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空服务": {
+      "客舱服务图像": true,
+      "安全演示图像": true,
+      "餐饮展示图像": true,
+      "客舱布局图": true,
+      "服务礼仪图示": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空管制": {
+      "雷达监控画面": true,
+      "空域图像": true,
+      "管制塔台图像": true,
+      "气象图像": true,
+      "管制设备图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空维修": {
+      "飞机结构图解": true,
+      "故障诊断图像": true,
+      "维修操作图示": true,
+      "工具使用图像": true,
+      "零部件图像库": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空货运": {
+      "货物装载图像": true,
+      "设备操作图示": true,
+      "包装标准图示": true,
+      "危险品标识图": true,
+      "merged": true,
+      "completed": true
+    },
+    "航空餐饮": {
+      "餐食展示图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "船舶": {
+      "船舶结构图": true,
+      "航海图": true,
+      "船舶设备图像": true,
+      "安全设施图示": true,
+      "驾驶台界面图": true,
+      "merged": true,
+      "completed": true
+    },
+    "艺术品": {
+      "艺术品高清图像": true,
+      "展览布置图": true,
+      "修复过程图像": true,
+      "艺术技法图解": true,
+      "艺术品真伪鉴别图": true,
+      "merged": true,
+      "completed": true
+    },
+    "葬礼": {
+      "墓园规划图": true,
+      "仪式场地布置图": true,
+      "墓碑设计图": true,
+      "追悼会流程图": true,
+      "殡葬用品图册": true,
+      "merged": true,
+      "completed": true
+    },
+    "虚拟现实": {
+      "VR场景设计图": true,
+      "VR交互界面设计": true,
+      "VR头显设计图": true,
+      "VR空间映射图": true,
+      "VR交互手势示意图": true,
+      "360°全景图": true,
+      "3D场景渲染图": true,
+      "设备结构图": true,
+      "交互界面设计图": true,
+      "空间映射可视化": true,
+      "动作捕捉示意图": true,
+      "视场角示意图": true,
+      "体验流程图": true,
+      "虚拟场景构建图": true,
+      "光线追踪渲染图": true,
+      "AR眼镜显示效果图": true,
+      "人机交互示意图": true,
+      "沉浸式体验场景图": true,
+      "selectedIdeas": [
+        5,
+        6,
+        15
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "警务": {
+      "现场勘查图像": true,
+      "警用装备图解": true,
+      "警务战术图示": true,
+      "嫌疑人特征图像": true,
+      "警用系统界面图": true,
+      "merged": true,
+      "completed": true
+    },
+    "设计": {
+      "概念草图": true,
+      "草图渲染图": true,
+      "配色方案": true,
+      "品牌视觉元素": true,
+      "原型设计图": true,
+      "模型演示图": true,
+      "merged": true,
+      "completed": true
+    },
+    "软件": {
+      "界面设计图": true,
+      "系统架构图": true,
+      "流程图": true,
+      "数据模型图": true,
+      "性能监控图表": true,
+      "merged": true,
+      "completed": true
+    },
+    "远程教育": {
+      "教学视频截图": true,
+      "学习平台界面图": true,
+      "交互式学习图示": true,
+      "学习数据可视化图表": true,
+      "在线考试示例图": true,
+      "selectedIdeas": [
+        0,
+        1,
+        4
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "通信": {
+      "网络拓扑图": true,
+      "信号覆盖图": true,
+      "设备结构图": true,
+      "状态监控图表": true,
+      "安装布线图": true,
+      "selectedIdeas": [
+        2,
+        4,
+        1
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "酒店": {
+      "酒店客房图片": true,
+      "酒店设施图片": true,
+      "平面布局图": true,
+      "服务流程图": true,
+      "安全疏散图": true,
+      "merged": true,
+      "completed": true
+    },
+    "金融": {
+      "市场趋势图表": true,
+      "资产配置图": true,
+      "风险收益图": true,
+      "金融界面截图": true,
+      "金融产品结构图": true,
+      "merged": true,
+      "completed": true
+    },
+    "铁路": {
+      "线路示意图": true,
+      "车辆结构图": true,
+      "信号系统图": true,
+      "铁路设备图解": true,
+      "调度界面图": true,
+      "merged": true,
+      "completed": true
+    },
+    "零售": {
+      "商品图片": true,
+      "店铺布局图": true,
+      "促销海报": true,
+      "销售数据图表": true,
+      "商品包装设计图": true,
+      "merged": true,
+      "completed": true
+    },
+    "非营利组织": {
+      "项目实施图片": true,
+      "影响力数据图表": true,
+      "组织结构图": true,
+      "筹款活动图片": true,
+      "受益群体图像": true,
+      "merged": true,
+      "completed": true
+    },
+    "音乐": {
+      "乐谱图像": true,
+      "专辑封面图": true,
+      "演出现场图片": true,
+      "音频波形图": true,
+      "乐器演奏图解": true,
+      "merged": true,
+      "completed": true
+    },
+    "餐饮": {
+      "菜品摄影图": true,
+      "店面装修图": true,
+      "菜品制作流程图": true,
+      "菜单设计图": true,
+      "食材识别图": true,
+      "selectedIdeas": [
+        0,
+        3,
+        4
+      ],
+      "merged": true,
+      "completed": true
+    },
+    "高等教育": {
+      "学术研究图表": true,
+      "教学PPT课件": true,
+      "校园规划图": true,
+      "科研实验图像": true,
+      "学科知识图谱": true,
+      "教学示范图解": true,
+      "merged": true,
+      "completed": true
+    }
+  },
+  "lastUpdated": "2025-04-04T18:46:26.859Z"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "startup-idea-generator",
+  "version": "1.0.0",
+  "description": "基于GPT-4o图像生成能力的创业点子生成器",
+  "main": "startup-idea-generator.js",
+  "scripts": {
+    "start": "node startup-idea-generator.js",
+    "image": "node markdown-to-image.js",
+    "text": "node text-idea-generator.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "mdimg": "^1.4.3",
+    "path": "^0.12.7"
+  }
+}

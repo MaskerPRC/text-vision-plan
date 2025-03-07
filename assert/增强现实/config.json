@@ -1,0 +1,114 @@
+[
+  {
+    "name": "技术规格文档",
+    "source": "AR设备和平台的技术规格和参数说明",
+    "size": 7
+  },
+  {
+    "name": "开发者指南",
+    "source": "AR应用开发的技术指南和最佳实践",
+    "size": 8
+  },
+  {
+    "name": "用户手册",
+    "source": "AR设备和应用的用户使用说明",
+    "size": 5
+  },
+  {
+    "name": "内容设计标准",
+    "source": "AR内容设计的技术标准和规范",
+    "size": 6
+  },
+  {
+    "name": "行业应用案例",
+    "source": "AR技术在各行业实际应用的案例分析",
+    "size": 4
+  },
+  {
+    "name": "SDK文档",
+    "source": "AR开发套件的API参考和使用说明",
+    "size": 7
+  },
+  {
+    "name": "技术白皮书",
+    "source": "AR技术原理和发展趋势的白皮书",
+    "size": 6
+  },
+  {
+    "name": "系统架构文档",
+    "source": "AR系统架构和组件关系的技术文档",
+    "size": 5
+  },
+  {
+    "name": "AR界面设计图",
+    "source": "AR应用的用户界面和交互元素设计图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "设备结构图",
+    "source": "AR眼镜和头显的硬件结构和组件布局图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "空间映射图",
+    "source": "AR系统对现实环境的空间映射和理解的可视化图",
+    "size": 9,
+    "visual": true
+  },
+  {
+    "name": "信息叠加示例图",
+    "source": "AR系统将虚拟信息叠加在现实场景中的效果图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "交互流程图",
+    "source": "AR应用的用户交互流程和操作路径图",
+    "size": 6,
+    "visual": true
+  },
+  {
+    "name": "视场角示意图",
+    "source": "AR眼镜视场角和显示范围的示意图",
+    "size": 5,
+    "visual": true
+  },
+  {
+    "name": "手势识别图示",
+    "source": "AR系统手势识别和控制的示意图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "3D对象渲染图",
+    "source": "AR应用中3D虚拟对象的渲染效果图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "标记识别示意图",
+    "source": "AR系统识别现实世界标记的示意图",
+    "size": 6,
+    "visual": true
+  },
+  {
+    "name": "行业应用场景图",
+    "source": "AR技术在医疗、教育、制造等行业应用的场景图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "用户体验流程图",
+    "source": "AR应用的用户体验流程和场景转换图",
+    "size": 5,
+    "visual": true
+  },
+  {
+    "name": "SLAM技术可视化",
+    "source": "AR同步定位与地图构建技术的可视化图",
+    "size": 9,
+    "visual": true
+  }
+] 

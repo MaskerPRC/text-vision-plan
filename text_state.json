@@ -1,0 +1,412 @@
+{
+  "processedIndustries": {
+    "云计算": {
+      "textCompleted": true
+    },
+    "互联网": {
+      "textCompleted": true
+    },
+    "人工智能": {
+      "textCompleted": true
+    },
+    "会计": {
+      "textCompleted": true
+    },
+    "体育": {
+      "textCompleted": true
+    },
+    "保险": {
+      "textCompleted": true
+    },
+    "健身": {
+      "textCompleted": true
+    },
+    "公关": {
+      "textCompleted": true
+    },
+    "公路": {
+      "textCompleted": true
+    },
+    "养老": {
+      "textCompleted": true
+    },
+    "军事": {
+      "textCompleted": true
+    },
+    "农业": {
+      "textCompleted": true
+    },
+    "冶金": {
+      "textCompleted": true
+    },
+    "出版": {
+      "textCompleted": true
+    },
+    "制药": {
+      "textCompleted": true
+    },
+    "制造业": {
+      "textCompleted": true
+    },
+    "动漫": {
+      "textCompleted": true
+    },
+    "化工": {
+      "textCompleted": true
+    },
+    "区块链": {
+      "textCompleted": true
+    },
+    "医疗": {
+      "textCompleted": true
+    },
+    "医疗器械": {
+      "textCompleted": true
+    },
+    "博彩": {
+      "textCompleted": true
+    },
+    "古董": {
+      "textCompleted": true
+    },
+    "咨询": {
+      "processedTextTypes": {
+        "咨询报告文本": true,
+        "行业研究文本": true,
+        "项目方案文本": true,
+        "数据分析文本": true,
+        "培训材料文本": true,
+        "建议书文本": true,
+        "客户访谈文本": true,
+        "会议纪要文本": true
+      },
+      "evaluatedTextIdeas": true,
+      "bestTextIdeas": [
+        {
+          "industry": "咨询",
+          "textType": "咨询报告文本",
+          "textSource": "",
+          "idea": "# 1. 创业点子介绍  \n**产品定义**：推出\"InsightGPT\"——基于GPT-50的AI咨询报告生成服务，提供定制化行业分析、数据解读和策略建议文本，支持多语言和风格适配（如严谨学术或简明汇报）。  \n**目标客户**：中小型咨询公司、企业内部战略部门、自由顾问及跨国企业本地化团队。  \n**核心价值**：用AI 1分钟生成传统人工需8小时的工作成果，成本降低90%，并确保长文本连贯性与专业术语准确性，解决行业交付周期长、成本高的痛点。\n\n# 2. 可行性分析  \n- **启动资金**：800元（Triton或阿里云免费GPU配额+域名+基础服务器）  \n- **人力需求**：1人（兼客户运营、模型微调与客服）  \n- **变现周期**：2周（预售+按次计费模式）  \n- **人工平均成本**：3000-8000元/份（专业顾问日薪400-1000元×8小时）  \n- **成本节省**：90%（AI单份生成成本约20-30元）  \n- **成本差异评分**：9分  \n- **文本长度**：是（多数咨询报告核心内容可拆解为2000字以内模块）\n\n# 3. MVP 5天实施方案  \n**方案**：开发\"最小文本工厂\"（TextFab-MVP）：  \n- **Day1**：接入GPT-50 API并完成咨询报告模板微调（测试医疗/零售2个行业案例）  \n- **Day2**：搭建HTML+JS用户界面，实现参数化输入（如行业、受众、字数）  \n- **Day3**：部署至GitHub Pages（成本0元），对接微信/支付宝微支付（单次0.99元测试费率）  \n- **Day4**：邀请5家咨询工作室参与测试，收集报告质量与速度反馈  \n- **Day5**：定价上线（基础版9.9元/份，VIP月卡199元含20次）  \n**关键资源**：免费云API额度+社交媒体推广+高校技术社群支持  \n\n<summary>慧析AI咨询报告引擎，用GPT-50实现90%成本节省，1分钟生成专业文本，精准满足中小咨询机构与企业对高效低成本交付的需求。</summary>",
+          "summary": "慧析AI咨询报告引擎，用GPT-50实现90%成本节省，1分钟生成专业文本，精准满足中小咨询机构与企业对高效低成本交付的需求。",
+          "rawResponse": "# 1. 创业点子介绍  \n**产品定义**：推出\"InsightGPT\"——基于GPT-50的AI咨询报告生成服务，提供定制化行业分析、数据解读和策略建议文本，支持多语言和风格适配（如严谨学术或简明汇报）。  \n**目标客户**：中小型咨询公司、企业内部战略部门、自由顾问及跨国企业本地化团队。  \n**核心价值**：用AI 1分钟生成传统人工需8小时的工作成果，成本降低90%，并确保长文本连贯性与专业术语准确性，解决行业交付周期长、成本高的痛点。\n\n# 2. 可行性分析  \n- **启动资金**：800元（Triton或阿里云免费GPU配额+域名+基础服务器）  \n- **人力需求**：1人（兼客户运营、模型微调与客服）  \n- **变现周期**：2周（预售+按次计费模式）  \n- **人工平均成本**：3000-8000元/份（专业顾问日薪400-1000元×8小时）  \n- **成本节省**：90%（AI单份生成成本约20-30元）  \n- **成本差异评分**：9分  \n- **文本长度**：是（多数咨询报告核心内容可拆解为2000字以内模块）\n\n# 3. MVP 5天实施方案  \n**方案**：开发\"最小文本工厂\"（TextFab-MVP）：  \n- **Day1**：接入GPT-50 API并完成咨询报告模板微调（测试医疗/零售2个行业案例）  \n- **Day2**：搭建HTML+JS用户界面，实现参数化输入（如行业、受众、字数）  \n- **Day3**：部署至GitHub Pages（成本0元），对接微信/支付宝微支付（单次0.99元测试费率）  \n- **Day4**：邀请5家咨询工作室参与测试，收集报告质量与速度反馈  \n- **Day5**：定价上线（基础版9.9元/份，VIP月卡199元含20次）  \n**关键资源**：免费云API额度+社交媒体推广+高校技术社群支持  \n\n<summary>慧析AI咨询报告引擎，用GPT-50实现90%成本节省，1分钟生成专业文本，精准满足中小咨询机构与企业对高效低成本交付的需求。</summary>",
+          "recovered": true
+        },
+        {
+          "industry": "咨询",
+          "textType": "行业研究文本",
+          "textSource": "行业分析和研究报告",
+          "idea": "# 1. 创业点子介绍  \n**AI行业研究助手**：面向咨询公司和中小企业，提供分钟级生成行业分析报告、市场洞察摘要等文本服务。用户通过自然语言输入需求关键词，系统自动生成2000字内专业报告，支持多轮优化调整风格/内容。核心价值主张包括：成本低于传统撰稿50%，7×24小时即时交付，多语言同步输出能力。目标客户为预算有限但急需快速获取行业数据解读的中小咨询机构及企业战略部门。  \n\n# 2. 可行性分析  \n- **启动资金**：800元（包括云服务器API调用费、基础域名、轻量级网站模板）。  \n- **人力需求**：1人全职（兼运营/客服），可通过Upwork招募兼职语言校对（按需付费）。  \n- **变现周期**：1个月（预收费模式+免费试用转化）。  \n- **传统成本**：人工撰写50页行业报告需耗时5-7工作日，单份成本4000-12000元。  \n- **成本节省**：95%（AI生成+精校总成本＜500元/份）。  \n- **差异评分**：10分。  \n- **文本长度**：是（90%行业摘要控制在2000字内）。  \n\n# 3. MVP 5天实施方案  \n**Day1**：注册AWS等云服务商账号，对接GPT-50 API接口，配置基础计费系统。  \n**Day2**：搭建简约交互网站（使用Webflow模板），集成多语言选择器和文本生成控件。  \n**Day3**：开发3个行业模板（如科技、消费、医疗），测试多轮修改功能，完成5个真实需求样例。  \n**Day4**：通过LinkedIn向中小咨询公司推送免费试用，招募5名种子用户进行封闭测试。  \n**Day5**：根据反馈紧急修复3个关键问题（如术语错误率过高），上线低价套餐（99元/报告）。  \n\n<summary>核心为低成本AI生成行业研究报告，7×24小时交付，多语言支持，帮助客户节省95%研究时间与费用，填补中小机构高效智能研究工具的市场空白。</summary>",
+          "summary": "核心为低成本AI生成行业研究报告，7×24小时交付，多语言支持，帮助客户节省95%研究时间与费用，填补中小机构高效智能研究工具的市场空白。",
+          "rawResponse": "# 1. 创业点子介绍  \n**AI行业研究助手**：面向咨询公司和中小企业，提供分钟级生成行业分析报告、市场洞察摘要等文本服务。用户通过自然语言输入需求关键词，系统自动生成2000字内专业报告，支持多轮优化调整风格/内容。核心价值主张包括：成本低于传统撰稿50%，7×24小时即时交付，多语言同步输出能力。目标客户为预算有限但急需快速获取行业数据解读的中小咨询机构及企业战略部门。  \n\n# 2. 可行性分析  \n- **启动资金**：800元（包括云服务器API调用费、基础域名、轻量级网站模板）。  \n- **人力需求**：1人全职（兼运营/客服），可通过Upwork招募兼职语言校对（按需付费）。  \n- **变现周期**：1个月（预收费模式+免费试用转化）。  \n- **传统成本**：人工撰写50页行业报告需耗时5-7工作日，单份成本4000-12000元。  \n- **成本节省**：95%（AI生成+精校总成本＜500元/份）。  \n- **差异评分**：10分。  \n- **文本长度**：是（90%行业摘要控制在2000字内）。  \n\n# 3. MVP 5天实施方案  \n**Day1**：注册AWS等云服务商账号，对接GPT-50 API接口，配置基础计费系统。  \n**Day2**：搭建简约交互网站（使用Webflow模板），集成多语言选择器和文本生成控件。  \n**Day3**：开发3个行业模板（如科技、消费、医疗），测试多轮修改功能，完成5个真实需求样例。  \n**Day4**：通过LinkedIn向中小咨询公司推送免费试用，招募5名种子用户进行封闭测试。  \n**Day5**：根据反馈紧急修复3个关键问题（如术语错误率过高），上线低价套餐（99元/报告）。  \n\n<summary>核心为低成本AI生成行业研究报告，7×24小时交付，多语言支持，帮助客户节省95%研究时间与费用，填补中小机构高效智能研究工具的市场空白。</summary>"
+        },
+        {
+          "industry": "咨询",
+          "textType": "项目方案文本",
+          "textSource": "咨询项目的实施方案",
+          "idea": "# 1. 创业点子介绍  \n推出「QuickSolutions」——基于GPT-5o的AI咨询方案生成平台。核心产品是为咨询公司/企业提供「分钟级项目方案定制服务」，提供从方案框架设计到完整文档输出的智能写作工具。目标客户聚焦中小咨询机构、初创企业及自由顾问，核心价值主张为“将方案产出成本从万元级压缩至百元级，质量对标顶尖咨询公司”。支持多语言、跨行业（如数字化转型、市场进入等）方案生成，用户仅需输入基本信息即可生成专业级PPT大纲、执行细则及预算表，AI实时响应需求修改。\n\n# 2. 可行性分析  \n- **预估启动资金：299元**（含服务器月租30美元、域名年费10美元、GPT-5o API开发测试费用，假设API调用成本极低）  \n- **人力需求：1人**（全栈开发者兼运营）  \n- **变现周期：1-2个月**（MVP上线后通过付费订阅制或文档生成收费试水）  \n- **人工方案成本：单方案均耗时10小时（500元/小时咨询师成本）=5000元**  \n- **AI成本节省：＞95%**（假设单方案生成成本＜200元）  \n- **成本差异评分：10分**（AI可将万元级项目压缩至数百元，且速度从天级降至分钟级）  \n- **文本长度：是，在2000字以内**（典型项目方案核心模块文本量适配）\n\n# 3. MVP 5天实施方案  \n**Days 1-2**：开发轻量级网页端原型，接入GPT-5o API，搭建3个核心方案模板（行业进入、流程优化、数字化转型），并设计交互式“需求参数”表单（客户输入行业类型、交付周期等关键信息）  \n**Days 3-4**：集成实时修改功能（用户可对AI生成的章节发起多轮优化），部署托管于Figma+Vercel（免费层），设计套餐定价（如基础方案99元/份）  \n**Day 5**：邀请5家本地初创企业试用，收集反馈优化错误率（如术语准确性、逻辑连贯性），同步在LinkedIn/行业社群投放“限时尝鲜”广告  \n**资源需求**：Chromebook+VS Code（现有设备）、免费托管平台、5个客户试用名额  \n\n<summary> QuickSolutions通过AI分钟级生成专业项目方案，将咨询文本生产成本降低95%，目标客群为预算有限的早期企业，用低成本快速响应市场咨询需求。 </summary>",
+          "summary": "QuickSolutions通过AI分钟级生成专业项目方案，将咨询文本生产成本降低95%，目标客群为预算有限的早期企业，用低成本快速响应市场咨询需求。",
+          "rawResponse": "# 1. 创业点子介绍  \n推出「QuickSolutions」——基于GPT-5o的AI咨询方案生成平台。核心产品是为咨询公司/企业提供「分钟级项目方案定制服务」，提供从方案框架设计到完整文档输出的智能写作工具。目标客户聚焦中小咨询机构、初创企业及自由顾问，核心价值主张为“将方案产出成本从万元级压缩至百元级，质量对标顶尖咨询公司”。支持多语言、跨行业（如数字化转型、市场进入等）方案生成，用户仅需输入基本信息即可生成专业级PPT大纲、执行细则及预算表，AI实时响应需求修改。\n\n# 2. 可行性分析  \n- **预估启动资金：299元**（含服务器月租30美元、域名年费10美元、GPT-5o API开发测试费用，假设API调用成本极低）  \n- **人力需求：1人**（全栈开发者兼运营）  \n- **变现周期：1-2个月**（MVP上线后通过付费订阅制或文档生成收费试水）  \n- **人工方案成本：单方案均耗时10小时（500元/小时咨询师成本）=5000元**  \n- **AI成本节省：＞95%**（假设单方案生成成本＜200元）  \n- **成本差异评分：10分**（AI可将万元级项目压缩至数百元，且速度从天级降至分钟级）  \n- **文本长度：是，在2000字以内**（典型项目方案核心模块文本量适配）\n\n# 3. MVP 5天实施方案  \n**Days 1-2**：开发轻量级网页端原型，接入GPT-5o API，搭建3个核心方案模板（行业进入、流程优化、数字化转型），并设计交互式“需求参数”表单（客户输入行业类型、交付周期等关键信息）  \n**Days 3-4**：集成实时修改功能（用户可对AI生成的章节发起多轮优化），部署托管于Figma+Vercel（免费层），设计套餐定价（如基础方案99元/份）  \n**Day 5**：邀请5家本地初创企业试用，收集反馈优化错误率（如术语准确性、逻辑连贯性），同步在LinkedIn/行业社群投放“限时尝鲜”广告  \n**资源需求**：Chromebook+VS Code（现有设备）、免费托管平台、5个客户试用名额  \n\n<summary> QuickSolutions通过AI分钟级生成专业项目方案，将咨询文本生产成本降低95%，目标客群为预算有限的早期企业，用低成本快速响应市场咨询需求。 </summary>"
+        }
+      ],
+      "textCompleted": true
+    },
+    "器械": {
+      "textCompleted": true
+    },
+    "园艺": {
+      "textCompleted": true
+    },
+    "地质": {
+      "textCompleted": true
+    },
+    "增强现实": {
+      "textCompleted": true
+    },
+    "外交": {
+      "textCompleted": true
+    },
+    "大数据": {
+      "textCompleted": true
+    },
+    "婚庆": {
+      "textCompleted": true
+    },
+    "媒体": {
+      "textCompleted": true
+    },
+    "安保": {
+      "textCompleted": true
+    },
+    "安防": {
+      "textCompleted": true
+    },
+    "宠物": {
+      "textCompleted": true
+    },
+    "室内设计": {
+      "textCompleted": true
+    },
+    "家具": {
+      "textCompleted": true
+    },
+    "家政": {
+      "textCompleted": true
+    },
+    "家电": {
+      "textCompleted": true
+    },
+    "幼儿教育": {
+      "textCompleted": true
+    },
+    "广告": {
+      "textCompleted": true
+    },
+    "广播": {
+      "textCompleted": true
+    },
+    "应急": {
+      "textCompleted": true
+    },
+    "建筑": {
+      "textCompleted": true
+    },
+    "建筑设计": {
+      "textCompleted": true
+    },
+    "心理": {
+      "textCompleted": true
+    },
+    "快递": {
+      "textCompleted": true
+    },
+    "房地产": {
+      "textCompleted": true
+    },
+    "拍卖": {
+      "textCompleted": true
+    },
+    "搜索引擎": {
+      "textCompleted": true
+    },
+    "摄影": {
+      "textCompleted": true
+    },
+    "收藏品": {
+      "textCompleted": true
+    },
+    "政府": {
+      "textCompleted": true
+    },
+    "教育": {
+      "textCompleted": true
+    },
+    "教育培训": {
+      "textCompleted": true
+    },
+    "新能源": {
+      "textCompleted": true
+    },
+    "旅游": {
+      "textCompleted": true
+    },
+    "时尚": {
+      "textCompleted": true
+    },
+    "景观设计": {
+      "textCompleted": true
+    },
+    "服装": {
+      "textCompleted": true
+    },
+    "机场": {
+      "textCompleted": true
+    },
+    "机械": {
+      "textCompleted": true
+    },
+    "林业": {
+      "textCompleted": true
+    },
+    "民航": {
+      "textCompleted": true
+    },
+    "气象": {
+      "textCompleted": true
+    },
+    "水利": {
+      "textCompleted": true
+    },
+    "水运": {
+      "textCompleted": true
+    },
+    "汽车": {
+      "textCompleted": true
+    },
+    "法律": {
+      "textCompleted": true
+    },
+    "测绘": {
+      "textCompleted": true
+    },
+    "海洋": {
+      "textCompleted": true
+    },
+    "消防": {
+      "textCompleted": true
+    },
+    "渔业": {
+      "textCompleted": true
+    },
+    "游戏": {
+      "textCompleted": true
+    },
+    "漫画": {
+      "textCompleted": true
+    },
+    "物流": {
+      "textCompleted": true
+    },
+    "物联网": {
+      "textCompleted": true
+    },
+    "特殊教育": {
+      "textCompleted": true
+    },
+    "环保": {
+      "textCompleted": true
+    },
+    "珠宝": {
+      "textCompleted": true
+    },
+    "生物技术": {
+      "textCompleted": true
+    },
+    "电商": {
+      "textCompleted": true
+    },
+    "电子": {
+      "textCompleted": true
+    },
+    "电影": {
+      "textCompleted": true
+    },
+    "电视": {
+      "textCompleted": true
+    },
+    "畜牧业": {
+      "textCompleted": true
+    },
+    "看护": {
+      "textCompleted": true
+    },
+    "矿业": {
+      "textCompleted": true
+    },
+    "社交媒体": {
+      "textCompleted": true
+    },
+    "科研": {
+      "textCompleted": true
+    },
+    "空管": {
+      "textCompleted": true
+    },
+    "纺织": {
+      "textCompleted": true
+    },
+    "美容": {
+      "textCompleted": true
+    },
+    "翻译": {
+      "textCompleted": true
+    },
+    "职业教育": {
+      "textCompleted": true
+    },
+    "能源": {
+      "textCompleted": true
+    },
+    "航天": {
+      "textCompleted": true
+    },
+    "航天工程": {
+      "textCompleted": true
+    },
+    "航空": {
+      "textCompleted": true
+    },
+    "航空制造": {
+      "textCompleted": true
+    },
+    "航空培训": {
+      "textCompleted": true
+    },
+    "航空服务": {
+      "textCompleted": true
+    },
+    "航空管制": {
+      "textCompleted": true
+    },
+    "航空维修": {
+      "textCompleted": true
+    },
+    "航空货运": {
+      "textCompleted": true
+    },
+    "航空餐饮": {
+      "textCompleted": true
+    },
+    "船舶": {
+      "textCompleted": true
+    },
+    "艺术品": {
+      "textCompleted": true
+    },
+    "葬礼": {
+      "textCompleted": true
+    },
+    "虚拟现实": {
+      "textCompleted": true
+    },
+    "警务": {
+      "textCompleted": true
+    },
+    "设计": {
+      "textCompleted": true
+    },
+    "软件": {
+      "textCompleted": true
+    },
+    "远程教育": {
+      "textCompleted": true
+    },
+    "通信": {
+      "textCompleted": true
+    },
+    "酒店": {
+      "textCompleted": true
+    },
+    "金融": {
+      "textCompleted": true
+    },
+    "铁路": {
+      "textCompleted": true
+    },
+    "零售": {
+      "textCompleted": true
+    },
+    "非营利组织": {
+      "textCompleted": true
+    },
+    "音乐": {
+      "textCompleted": true
+    },
+    "餐饮": {
+      "textCompleted": true
+    },
+    "高等教育": {
+      "textCompleted": true
+    }
+  },
+  "lastUpdated": "2025-04-06T02:13:37.551Z"
+}

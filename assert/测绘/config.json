@@ -1,0 +1,102 @@
+[
+  {
+    "name": "测量数据文本",
+    "source": "地理测量数据记录",
+    "size": 9
+  },
+  {
+    "name": "地图制作文本",
+    "source": "地图编制说明文档",
+    "size": 8
+  },
+  {
+    "name": "技术报告文本",
+    "source": "测绘技术分析报告",
+    "size": 7
+  },
+  {
+    "name": "成果资料文本",
+    "source": "测绘成果说明文档",
+    "size": 6
+  },
+  {
+    "name": "设备说明文本",
+    "source": "测绘设备使用说明",
+    "size": 5
+  },
+  {
+    "name": "规范标准文本",
+    "source": "测绘技术规范标准",
+    "size": 4
+  },
+  {
+    "name": "质检报告文本",
+    "source": "测绘成果质量检查报告",
+    "size": 2
+  },
+  {
+    "name": "野外记录文本",
+    "source": "测绘野外作业记录",
+    "size": 1
+  },
+  {
+    "name": "地形图",
+    "source": "不同比例尺的地形地貌测绘图件",
+    "size": "9",
+    "visual": true
+  },
+  {
+    "name": "航空影像",
+    "source": "无人机和航空摄影测量获取的影像资料",
+    "size": "8",
+    "visual": true
+  },
+  {
+    "name": "遥感影像",
+    "source": "卫星遥感获取的多光谱和高分辨率影像",
+    "size": "9",
+    "visual": true
+  },
+  {
+    "name": "三维模型",
+    "source": "地形地物的三维立体建模成果",
+    "size": "7",
+    "visual": true
+  },
+  {
+    "name": "正射影像图",
+    "source": "经过几何纠正的航空或卫星影像图",
+    "size": "8",
+    "visual": true
+  },
+  {
+    "name": "专题地图集",
+    "source": "各类专题地图和地图集成果",
+    "size": "6",
+    "visual": true
+  },
+  {
+    "name": "测绘设备图像",
+    "source": "各类测绘仪器设备的图像资料",
+    "size": "5",
+    "visual": true
+  },
+  {
+    "name": "坐标网格图",
+    "source": "不同坐标系统的网格和投影图",
+    "size": "7",
+    "visual": true
+  },
+  {
+    "name": "GIS可视化",
+    "source": "地理信息系统中的数据可视化展示",
+    "size": "8",
+    "visual": true
+  },
+  {
+    "name": "测绘作业图像",
+    "source": "测绘外业和内业工作的操作图像",
+    "size": "6",
+    "visual": true
+  }
+] 

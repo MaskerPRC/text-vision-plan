@@ -1,0 +1,190 @@
+[
+  {
+    "name": "VR技术白皮书",
+    "source": "VR技术公司和研究机构发布的技术原理、应用场景和发展规划",
+    "size": "7"
+  },
+  {
+    "name": "VR设备使用手册",
+    "source": "VR设备制造商提供的产品使用说明、操作指南和故障排除",
+    "size": "8"
+  },
+  {
+    "name": "VR内容创作指南",
+    "source": "VR内容创作者编写的3D模型、交互设计和内容优化指南",
+    "size": "6"
+  },
+  {
+    "name": "VR开发文档",
+    "source": "VR平台和工具提供商编写的开发指南、API参考和示例代码",
+    "size": "7"
+  },
+  {
+    "name": "VR用户体验研究",
+    "source": "UX研究人员进行的VR交互设计和用户体验评估研究报告",
+    "size": "5"
+  },
+  {
+    "name": "VR应用案例分析",
+    "source": "企业和研究机构发布的VR实际应用案例和效果评估报告",
+    "size": "4"
+  },
+  {
+    "name": "VR行业标准文件",
+    "source": "行业组织制定的VR技术标准、互操作规范和安全指南",
+    "size": "3"
+  },
+  {
+    "name": "VR市场分析报告",
+    "source": "咨询公司和研究机构发布的VR市场趋势和发展前景分析",
+    "size": "5"
+  },
+  {
+    "name": "VR场景设计图",
+    "source": "虚拟现实环境和场景的三维设计效果图",
+    "size": "9",
+    "visual": true
+  },
+  {
+    "name": "VR交互界面设计",
+    "source": "虚拟现实应用的用户界面和交互元素设计图",
+    "size": "8",
+    "visual": true
+  },
+  {
+    "name": "VR头显设计图",
+    "source": "虚拟现实设备的外观和结构设计图",
+    "size": "7",
+    "visual": true
+  },
+  {
+    "name": "VR空间映射图",
+    "source": "虚拟现实中的空间映射和环境重建可视化图",
+    "size": "6",
+    "visual": true
+  },
+  {
+    "name": "VR交互手势示意图",
+    "source": "虚拟现实中用户交互手势和操作示意图",
+    "size": "7",
+    "visual": true
+  },
+  {
+    "name": "360°全景图",
+    "source": "用于虚拟现实应用的360度全景图像",
+    "size": "8",
+    "visual": true
+  },
+  {
+    "name": "设备规格文档",
+    "source": "VR/AR设备的技术规格和参数说明",
+    "size": 7
+  },
+  {
+    "name": "开发指南",
+    "source": "VR/AR应用和内容开发的技术指南",
+    "size": 8
+  },
+  {
+    "name": "用户手册",
+    "source": "面向终端用户的VR/AR设备使用说明",
+    "size": 5
+  },
+  {
+    "name": "内容制作标准",
+    "source": "VR/AR内容制作的技术标准和规范",
+    "size": 6
+  },
+  {
+    "name": "应用案例分析",
+    "source": "VR/AR技术在各行业实际应用的案例分析",
+    "size": 4
+  },
+  {
+    "name": "交互设计指南",
+    "source": "VR/AR应用交互设计的原则和最佳实践",
+    "size": 7
+  },
+  {
+    "name": "技术白皮书",
+    "source": "VR/AR技术原理和发展趋势的白皮书",
+    "size": 6
+  },
+  {
+    "name": "平台架构文档",
+    "source": "VR/AR平台的系统架构和组件关系说明",
+    "size": 5
+  },
+  {
+    "name": "3D场景渲染图",
+    "source": "VR/AR应用中的3D场景和环境渲染图",
+    "size": 9,
+    "visual": true
+  },
+  {
+    "name": "设备结构图",
+    "source": "VR/AR设备的硬件结构和组件布局图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "交互界面设计图",
+    "source": "VR/AR应用的用户界面和交互元素设计图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "空间映射可视化",
+    "source": "AR系统空间映射和环境理解的可视化图",
+    "size": 6,
+    "visual": true
+  },
+  {
+    "name": "动作捕捉示意图",
+    "source": "VR系统用户动作捕捉和跟踪的示意图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "视场角示意图",
+    "source": "VR/AR设备视场角和显示范围的示意图",
+    "size": 5,
+    "visual": true
+  },
+  {
+    "name": "体验流程图",
+    "source": "VR/AR应用的用户体验流程和场景转换图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "虚拟场景构建图",
+    "source": "VR虚拟场景的构建过程和元素布局图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "光线追踪渲染图",
+    "source": "VR场景的高质量光线追踪渲染效果图",
+    "size": 9,
+    "visual": true
+  },
+  {
+    "name": "AR眼镜显示效果图",
+    "source": "AR眼镜上信息叠加显示的效果图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "人机交互示意图",
+    "source": "VR/AR系统中人机交互方式的示意图",
+    "size": 6,
+    "visual": true
+  },
+  {
+    "name": "沉浸式体验场景图",
+    "source": "VR沉浸式体验的各类应用场景效果图",
+    "size": 7,
+    "visual": true
+  }
+] 

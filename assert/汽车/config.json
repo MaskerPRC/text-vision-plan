@@ -1,0 +1,108 @@
+[
+  {
+    "name": "产品说明文本",
+    "source": "汽车产品使用说明书",
+    "size": 8
+  },
+  {
+    "name": "维修手册文本",
+    "source": "汽车维修技术手册",
+    "size": 7
+  },
+  {
+    "name": "零件目录文本",
+    "source": "汽车零部件目录",
+    "size": 6
+  },
+  {
+    "name": "质量标准文本",
+    "source": "汽车产品质量标准",
+    "size": 5
+  },
+  {
+    "name": "故障诊断文本",
+    "source": "汽车故障诊断指南",
+    "size": 3
+  },
+  {
+    "name": "研发记录文本",
+    "source": "汽车产品研发记录",
+    "size": 2
+  },
+  {
+    "name": "测试报告文本",
+    "source": "汽车性能测试报告",
+    "size": 1
+  },
+  {
+    "name": "安全规范文本",
+    "source": "汽车安全使用规范",
+    "size": 4
+  },
+  {
+    "name": "汽车设计图",
+    "source": "汽车外观和内饰设计图纸",
+    "size": 9,
+    "visual": true
+  },
+  {
+    "name": "汽车工程图",
+    "source": "汽车零部件和整车工程设计图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "汽车原型渲染图",
+    "source": "汽车设计概念的三维渲染效果图",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "汽车线路图",
+    "source": "汽车电子和控制系统线路图",
+    "size": 6,
+    "visual": true
+  },
+  {
+    "name": "汽车展示图",
+    "source": "汽车产品宣传和展示图片",
+    "size": 5,
+    "visual": true
+  },
+  {
+    "name": "汽车测试场景图",
+    "source": "汽车在各种测试环境下的表现图片",
+    "size": 7,
+    "visual": true
+  },
+  {
+    "name": "汽车碰撞测试图",
+    "source": "汽车安全性能碰撞测试的图片和分析图",
+    "size": 8,
+    "visual": true
+  },
+  {
+    "name": "汽车空气动力学模拟图",
+    "source": "汽车空气动力学性能的计算机模拟图",
+    "size": 6,
+    "visual": true
+  },
+  {
+    "name": "汽车制造流程图",
+    "source": "汽车从原材料到成品的制造流程示意图",
+    "size": 5,
+    "visual": true
+  },
+  {
+    "name": "驾驶操作指南图",
+    "source": "汽车各项功能的操作指南图示",
+    "size": 4,
+    "visual": true
+  },
+  {
+    "name": "汽车故障示意图",
+    "source": "常见汽车故障的位置和表现示意图",
+    "size": 4,
+    "visual": true
+  }
+] 
